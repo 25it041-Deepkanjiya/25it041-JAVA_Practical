@@ -6,8 +6,8 @@ A structured collection of Java laboratory practice programs developed as part o
 
 ## Student Details
 
-- **Name:** Dev kaneriya
-- **Roll No:** 25IT040
+- **Name:** Deep  Kanjiya
+- **Roll No:** 25IT041
 - **Subject:** Object-Oriented Programming with Java (CEUE203)
 
 ---
